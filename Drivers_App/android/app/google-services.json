@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252430126562",
+    "project_id": "tracking-app-596e4",
+    "storage_bucket": "tracking-app-596e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252430126562:android:bab4d95d79aa3b23213dbb",
+        "android_client_info": {
+          "package_name": "com.example.bus_drivers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252430126562-h4ih71jbcf5ijg1t0vdjl9afo5984mjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_w9c2w00SMYDdAx-ZarUScSZTRnjAcj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252430126562-h4ih71jbcf5ijg1t0vdjl9afo5984mjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
